@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@nxrocks/nx-flutter": "^10.0.1",
+    "@nxrocks/nx-melos": "^5.0.1"
+  }
+}
